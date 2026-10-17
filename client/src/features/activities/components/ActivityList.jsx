@@ -12,6 +12,8 @@ import EmptyState from '../../../shared/components/EmptyState.jsx';
  * @param {boolean}   [props.showEditButton]
  * @param {string}    [props.emptyMessage]
  */
+
+
 export default function ActivityList({
   activities,
   onToggle,
